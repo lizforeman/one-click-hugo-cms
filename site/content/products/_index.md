@@ -52,14 +52,13 @@ pricing:
       items:
         - We accept PayPal or check
         - Tax-deductible
-      plan: Small
+      plan: Seat at the table
       price: '25'
-    - description: 'Great for avid drinkers, java-nsoving couples and bigger crowds'
+    - description: Add your name to our annual sponsor list
       items:
-        - 6 lbs of coffee per month
-        - Green or roasted beans
-        - Up to 4 different varieties of beans
-      plan: Big
+        - We accept PayPal or check
+        - Tax-deductible
+      plan: Sponsor
       price: '80'
     - description: Want a few tiny batches from different varieties? Try our custom plan
       items:
