@@ -2,8 +2,10 @@
 title: Annual CLE TEST 2
 image: /img/about-jumbotron.jpg
 cle:
-  - heading: This is a test
+  - heading: Join us Veterans Day 2020
     imageUrl: /img/about-jumbotron.jpg
-    text: Testing
+    text: >-
+      Join us on November 11, 2020 for an enriching day of learning. Watch this
+      space for speaker and registration information.
 ---
 
