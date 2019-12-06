@@ -7,13 +7,12 @@ values:
     text: >-
       Join us on November 11, 2020 for an enriching day of learning. Watch this
       space for speaker and registration information.
-  - heading: Single origin
+  - heading: 2019 in review
     imageUrl: /img/about-single-origin.jpg
-    text: >
-      Single-origin coffee is coffee grown within a single known geographic
-      origin. Sometimes, this is a single farm or a specific collection of beans
-      from a single country. The name of the coffee is then usually the place it
-      was grown to whatever degree available.
+    text: >-
+      Our theme was "Controlling the narrative from arrest to acquittal" and
+      featured an impressive roster of speakers, including Cynthia Roseberry,
+      Jeffery Robinson, Tim Bicknell, and Keith Belzer.
   - heading: Sustainable farming
     imageUrl: /img/about-sustainable-farming.jpg
     text: >
