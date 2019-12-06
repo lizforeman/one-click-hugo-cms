@@ -18,13 +18,9 @@ values:
     text: >-
       Join our roster of notable speakers in 2021. Form will be available online
       soon.
-  - heading: Direct sourcing
+  - heading: Attend in 2020
     imageUrl: /img/about-direct-sourcing.jpg
-    text: >
-      We want to truly empower the communities that bring amazing coffee to you.
-      That’s why we reinvest 20% of our profits into farms, local businesses and
-      schools everywhere our coffee is grown. You can see the communities grow
-      and learn more about coffee farming on our blog.
+    text: Online registration will be available this year!
   - heading: Reinvest profits
     imageUrl: /img/about-reinvest-profits.jpg
     text: >
