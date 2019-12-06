@@ -1,11 +1,14 @@
 ---
-title: "Contact"
-logo: "/img/logo.svg"
+title: Contact
+logo: /img/logo.svg
 contact_entries:
-  - heading: Location
-    text: "3153 Lynn Avenue, South San Francisco, California 94080"
-  - heading: Working hours
-    text: "Monday – Saturday: 9AM – 7PM We’re closed on Sundays"
+  - heading: Mailing address
+    text: |-
+      c/o Bill Gallagher
+      114 East 8th Street
+      Cincinnati Ohio 45202
+  - heading: Phone
+    text: (513) 651-5666
 ---
 
 We’d love to get in touch with you and hear your ideas and
