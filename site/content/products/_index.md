@@ -1,5 +1,5 @@
 ---
-title: Annual CLE
+title: Support us
 image: /img/products-jumbotron.jpg
 heading: Join us on 11/11/2020
 description: >-
@@ -8,29 +8,12 @@ description: >-
   for six hours of CLE credit in Ohio and Kentucky.  Advanced registration is
   required, and registration materials will be available in 2020.
 intro:
-  blurbs:
-    - image: /img/illustrations-coffee.svg
-      text: >-
-        2019 Speaker: Cynthia Roseberry
-
-        Topic: Direct Examination - Controlling the narrative with your client
-
-
-        During the Obama administration, Ms. Roseberry served as project manager
-        of the historic Clemency Project 2014 that provided pro bono support to
-        more than 36,000 applicants for presidential clemency. 
-    - image: /img/illustrations-coffee-gear.svg
-      text: >
-        We offer a small, but carefully curated selection of brewing gear and
-        tools for every taste and experience level. No matter if you roast your
-        own beans or just bought your first french press, you’ll find a gadget
-        to fall in love with in our shop.
-  heading: What we offer
-  description: >
-    Kaldi is the ultimate spot for coffee lovers who want to learn about their
-    java’s origin and support the farmers that grew it. We take coffee
-    production, roasting and brewing seriously and we’re glad to pass that
-    knowledge to anyone. This is an edit via identity...
+  blurbs: []
+  heading: Your help is needed
+  description: >-
+    Friends to the Indigent is a volunteer-run charitable organization committed
+    to the principle that everyone deserves a well resourced, well trained and
+    properly educated attorney.
 main:
   heading: Great coffee with no compromises
   description: >
