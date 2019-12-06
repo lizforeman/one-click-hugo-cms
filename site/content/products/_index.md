@@ -36,10 +36,10 @@ testimonials:
       I've found great value in the annual Veterans Day CLE. From the top-notch
       speakers to the community-building that goes on in the room, it's an event
       that I wouldn't miss!
-  - author: Philipp Trommler
+  - author: Jane Dawson
     quote: >-
-      Kaldi is the place to go if you want the best quality coffee. I love their
-      stance on empowering farmers and transparency.
+      This is a godsend for myself and my colleagues, especially as our
+      department lacks professional training budget.
 full_image: /img/products-full-width.jpg
 pricing:
   heading: Monthly subscriptions
