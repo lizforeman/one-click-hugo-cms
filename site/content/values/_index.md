@@ -13,13 +13,11 @@ values:
       Our theme was "Controlling the narrative from arrest to acquittal" and
       featured an impressive roster of speakers, including Cynthia Roseberry,
       Jeffery Robinson, Tim Bicknell, and Keith Belzer.
-  - heading: Sustainable farming
+  - heading: Speaker request form
     imageUrl: /img/about-sustainable-farming.jpg
-    text: >
-      Sustainable agriculture is farming in sustainable ways based on an
-      understanding of ecosystem services, the study of relationships between
-      organisms and their environment. What grows where and how it is grown are
-      a matter of choice and careful consideration for nature and communities.
+    text: >-
+      Join our roster of notable speakers in 2021. Form will be available online
+      soon.
   - heading: Direct sourcing
     imageUrl: /img/about-direct-sourcing.jpg
     text: >
