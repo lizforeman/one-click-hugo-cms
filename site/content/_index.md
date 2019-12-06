@@ -1,7 +1,7 @@
 ---
 title: We are friends to the indigent
 subtitle: Dedicated to attorneys who represent to the indigent accused
-image: /img/home-jumbotron.jpg
+image: /img/courthouse.jpg
 blurb:
   heading: Why Friends To The Indigent?
   text: >-
