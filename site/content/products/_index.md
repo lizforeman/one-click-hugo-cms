@@ -42,19 +42,18 @@ testimonials:
       department lacks professional training budget.
 full_image: /img/products-full-width.jpg
 pricing:
-  heading: Monthly subscriptions
+  heading: Giving levels
   description: >-
-    We make it easy to make great coffee a part of your life. Choose one of our
-    monthly subscription plans to receive great coffee at your doorstep each
-    month. Contact us about more details and payment info.
+    Please consider supporting Friends to the Indigent with your online
+    donation. Just a few cups of coffee (or more) goes to help better our
+    society.
   plans:
-    - description: Perfect for the drinker who likes to enjoy 1-2 cups per day.
+    - description: Help provide reduced rates for our CLE attendees
       items:
-        - 3 lbs of coffee per month
-        - Green or roasted beans"
-        - One or two varieties of beans"
+        - We accept PayPal or check
+        - Tax-deductible
       plan: Small
-      price: '50'
+      price: '25'
     - description: 'Great for avid drinkers, java-nsoving couples and bigger crowds'
       items:
         - 6 lbs of coffee per month
