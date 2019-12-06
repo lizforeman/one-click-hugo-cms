@@ -60,12 +60,11 @@ pricing:
         - Tax-deductible
       plan: Sponsor
       price: '80'
-    - description: Want a few tiny batches from different varieties? Try our custom plan
+    - description: Show your support at a custom level
       items:
-        - Whatever you need
-        - Green or roasted beans
-        - Unlimited varieties
-      plan: Custom
+        - We accept PayPal or check
+        - Tax-deductible
+      plan: Your choice
       price: '?'
 ---
 
