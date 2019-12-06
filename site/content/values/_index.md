@@ -2,13 +2,11 @@
 title: Annual CLE
 image: /img/about-jumbotron.jpg
 values:
-  - heading: Shade-grown coffee
-    imageUrl: /img/about-shade-grown.jpg
-    text: >
-      Coffee is a small tree or shrub that grows in the forest understory in its
-      wild form, and traditionally was grown commercially under other trees that
-      provided shade. The forest-like structure of shade coffee farms provides
-      habitat for a great number of migratory and resident species.
+  - heading: Join us Veterans Day 2020
+    imageUrl: /img/courthouse.jpg
+    text: >-
+      Join us on November 11, 2020 for an enriching day of learning. Watch this
+      space for speaker and registration information.
   - heading: Single origin
     imageUrl: /img/about-single-origin.jpg
     text: >
