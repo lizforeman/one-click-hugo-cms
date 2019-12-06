@@ -7,5 +7,8 @@ cle:
     text: >-
       Join us on November 11, 2020 for an enriching day of learning. Watch this
       space for speaker and registration information.
+  - heading: Past speakers
+    imageUrl: /img/blog-flavor_wheel.jpg
+    text: Please visit this roster of notable previous speakers.
 ---
 
