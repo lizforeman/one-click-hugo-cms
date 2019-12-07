@@ -1,20 +1,31 @@
 ---
-title: 'Just in: small batch of Jamaican Blue Mountain in store next week'
+title: About our CLE scholarships
 date: 2017-01-04T15:04:10.000Z
 description: >-
-  We’re proud to announce that we’ll be offering a small batch of Jamaica Blue
-  Mountain coffee beans in our store next week.
+  We're proud to offer continuing legal education (CLE) scholarships to
+  attorneys in our community.
 ---
+Have you found a CLE or training program that you would like to attend but you can't find the time or money to attend? _**We may be able to help.**_
 
-We expect the shipment of a limited quantity of green beans next Monday. We’ll be offering the roasted beans from Tuesday, but quantities are limited, so be quick.
+Friends To The Indigent is a local charity created by local criminal defense lawyers dedicated to helping those who provide legal representation to the indigent accused.
 
-Blue Mountain Peak is the highest mountain in Jamaica and one of the highest peaks in the Caribbean at 7,402 ft. It is the home of Blue Mountain coffee and their famous tours. It is located on the border of the Portland and Saint Thomas parishes of Jamaica.
+## Open to all who help the indigent accused
 
-## A little history
+You can apply for funds to help pay for or assist in payment of educational/training programs. Your application information will not be made public and the appropriate level of discretion will be afforded every applicant and information provided.
 
-The Blue Mountains are considered by many to be a hiker's and camper's paradise. The traditional Blue Mountain trek is a 7-mile hike to the peak and consists of a 3,000-foot increase in elevation. Jamaicans prefer to reach the peak at sunrise, thus the 3–4 hour hike is usually undertaken in darkness. Since the sky is usually very clear in the mornings, Cuba can be seen in the distance.
+To apply, please complete our application and mail to: 
 
->Some of the plants found on the Blue Mountain cannot be found anywhere else in the world and they are often of a dwarfed sort.
+Friends To The Indigent
+
+c/o Bill Gallagher
+
+114 East 8th Street
+
+Cincinnati Ohio 45202
+
+> Do you have questions or need more information? Contact Bill Gallagher at 513-651-5666
+
+Some of the plants found on the Blue Mountain cannot be found anywhere else in the world and they are often of a dwarfed sort.
 
 This is mainly due to the cold climate which inhibits growth. The small coffee farming communities of Claverty Cottage and Hagley Gap are located near the peak.
 
@@ -25,4 +36,3 @@ Jamaican Blue Mountain Coffee or Jamaica Blue Mountain Coffee is a classificatio
 Jamaican Blue Mountain Coffee is a globally protected certification mark, meaning only coffee certified by the Coffee Industry Board of Jamaica can be labeled as such. It comes from a recognized growing region in the Blue Mountain region of Jamaica, and its cultivation is monitored by the Coffee Industry Board of Jamaica.
 
 The Blue Mountains are generally located between Kingston to the south and Port Antonio to the north. Rising 7,402 ft, they are some of the highest mountains in the Caribbean. The climate of the region is cool and misty with high rainfall. The soil is rich, with excellent drainage. This combination of climate and soil is considered ideal for coffee.
-
