@@ -1,27 +1,35 @@
 ---
-title: "Making sense of the SCAA’s new Flavor Wheel"
-date: 2016-12-17T15:04:10.000Z
-description: The Coffee Taster’s Flavor Wheel, the official resource used by coffee tasters, has been revised for the first time this year.
+title: 2019 Veterans Day CLE Recap
+date: 2019-12-06T15:04:00.000Z
+description: >-
+  Our 2019 seminar was a great success with [number] attendees and renowned
+  speakers.
 image: /img/blog-flavor_wheel.jpg
 ---
+Our annual Veterans Day seminar, Controlling the Narrative from Arrest to Acquittal, was held in November 2019 at the Sharonville Convention Center.
 
-The SCAA updated the wheel to reflect the finer nuances needed to describe flavors more precisely. The new descriptions are more detailed and hence allow cuppers to distinguish between more flavors.
+## **Cynthia Roseberry**
 
-While this is going to be a big change for professional coffee tasters, it means a lot to you as a consumer as well. We’ll explain how the wheel came to be, how pros use it and what the flavors actually mean.
+**Topic:** Direct Examination: Controlling the Narrative with Your Client
 
-## What the updates mean to you
+During the Obama administration, Ms. Roseberry served as project manager of the historic Clemency Project 2014 that provided pro bono support to more than 36,000 applicants for presidential clemency. Ms.  Roseberry  also  served  on  the  Charles  Colson  Task  Force  on  Federal  Corrections,  and  was  the executive  director  of  the  Federal  Defenders  of  the  Middle  District  of  Georgia,  Inc.  She  has  taught advanced  criminal  procedure  and  clinical  courses  at  DePaul  University  College  of  Law.  A  founding board member of the Georgia Innocence Project, she was the first African-American female president of the Georgia Association of Criminal Defense Lawyers.
 
-The Specialty Coffee Association of America (SCAA), founded in 1982, is a non-profit trade organization for the specialty coffee industry. With members located in more than 40 countries, SCAA represents every segment of the specialty coffee industry, including:
+## **Jeffery Robinson**
 
-- producers
-- roasters
-- importers/exporters
-- retailers
-- manufacturers
-- baristas
+![Jeffery Robinson 2019 CLE speaker](/img/jeffery-robinson-aclu-trone.png "Jeffery Robinson")
 
-For over 30 years, SCAA has been dedicated to creating a vibrant specialty coffee community by recognizing, developing and promoting specialty coffee. SCAA sets and maintains quality standards for the industry, conducts market research, and provides education, training, resources, and business services for its members.
+**Topic:** Race Matter: History of Race in America
 
-Coffee cupping, or coffee tasting, is the practice of observing the tastes and aromas of brewed coffee. It is a professional practice but can be done informally by anyone or by professionals known as "Q Graders". A standard coffee cupping procedure involves deeply sniffing the coffee, then loudly slurping the coffee so it spreads to the back of the tongue.
+Robinson is a deputy legal director  and  the  director  of  the  [ACLU Trone Center for Justice and Equality](https://www.aclu.org/aclu-centers),  which  houses  the  organization's  work  on  criminal  justice,  racial  justice, and reform issues.Since graduating from Harvard Law School in 1981, Jeff has three decades of  experience  working  on  these  issues.For  seven  years,  Mr.  Robinson  represented  indigent clients in state court at The Defender Association and then in federal court at the Federal Public Defender’s Office, both in Seattle. In 1988, Jeff began a 27-year private practice at the Seattle firm of Schroeter, Goldmark & Bender, where he represented a broad range of clients in local, state, and federal courts on charges ranging from shoplifting to securities fraud and first degree murder. He has tried over 200 criminal cases to verdict and has tried more than a dozen civil cases  representing  plaintiffs  suing  corporate  and  government  entities.  Jeff  was  one  of  the original members of the John Adams Project and worked on the behalf of one of five men held at Guantanamo Bay charged with carrying out the 9/11 attacks.  In addition to being a nationally recognized trial attorney, Jeff is also a respected teacher of trial advocacy. He is a faculty member of the National Criminal Defense College. 
 
-The coffee taster attempts to measure aspects of the coffee's taste, specifically the body (the texture or mouthfeel, such as oiliness), sweetness, acidity (a sharp and tangy feeling, like when biting into an orange), flavour (the characters in the cup), and aftertaste. Since coffee beans embody telltale flavours from the region where they were grown, cuppers may attempt to identify the coffee's origin.
+## **Tim Bicknell**
+
+Topic: Changing our perspective on drug use
+
+ CHANG ING OUR PE RSPECTIVE  ON DRUG  USE ANDADVOCACY: L ESSONS F ROM HA RM REDUCT ION INTE RNA TIONAL”In  2008,  Mr.  Bicknell  entered  private  practice  focused  on  defending  clients  accused  of  committing crimes.In  2011,  Mr.  Bicknell  worked  in  the  chambers  of  the  Honorable  Michael  R.  Barrett  in  the  United States  District  Court  for  the  Southern  District  of  Ohio.  He  is  now  a  supervising  attorney  in  the  felony division of the Hamilton County Public Defender’s Office and teaches at University of Cincinnati College of Law.  Mr.  Bicknell is  a graduate of the National Criminal Defense College’s  Trial Practice Institutein Macon,  Georgia  and  of NCDC’s  Advanced  Cross-Examination  Seminar.  He  recently  attended  Gerry Spence’s Defending the Damned Seminar. Mr. Bicknell presented at the Harm  Reduction  International Conference 2019 in Porto, Portugal. 
+
+## **Keith Belzer**
+
+Topic: Using Interests and Evidence to Negotiate Successful Outcomes
+
+Belzer is a nationally recognized lecturer and teacher on criminal defense issues, trial techniques and strategies.  As  a  faculty  member  at  the  National  Criminal  Defense  College  in  Macon,  Georgia,  and  a member of the Wisconsin Trial Skills Academy, Attorney Belzer is a frequent lecturer on criminal defense issues and trial techniques, having lectured or taught for over 50 criminal defense groups or conferences.
