@@ -1,6 +1,6 @@
 ---
 title: Our new website debuts
-date: 2019-12-20T15:04:00.000Z
+date: 2019-12-06T15:04:00.000Z
 description: >-
   Friends to the Indigent, a Cincinnati-based nonprofit, is proud to announce
   our new website.
