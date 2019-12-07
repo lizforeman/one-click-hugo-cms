@@ -12,7 +12,7 @@ Our annual Veterans Day seminar, Controlling the Narrative from Arrest to Acquit
 
 **Topic:** Direct Examination: Controlling the Narrative with Your Client
 
-During the Obama administration, Ms. Roseberry served as project manager of the historic Clemency Project 2014 that provided pro bono support to more than 36,000 applicants for presidential clemency. Ms.  Roseberry  also  served  on  the  Charles  Colson  Task  Force  on  Federal  Corrections,  and  was  the executive  director  of  the  Federal  Defenders  of  the  Middle  District  of  Georgia,  Inc.  She  has  taught advanced  criminal  procedure  and  clinical  courses  at  DePaul  University  College  of  Law.  A  founding board member of the Georgia Innocence Project, she was the first African-American female president of the Georgia Association of Criminal Defense Lawyers.
+During the Obama administration, Ms. Roseberry served as project manager of the historic Clemency Project 2014 that provided pro bono support to more than 36,000 applicants for presidential clemency. Ms.  Roseberry  also  served  on  the  Charles  Colson  Task  Force  on  Federal  Corrections,  and  was  the executive  director  of  the  Federal  Defenders  of  the  Middle District of Georgia, Inc. She  has  taught advanced  criminal  procedure  and  clinical  courses  at DePaul University College of Law.  A founding board member of the [Georgia Innocence Project](https://www.georgiainnocenceproject.org), she was the first African-American female president of the Georgia Association of Criminal Defense Lawyers.
 
 ## **Jeffery Robinson**
 
