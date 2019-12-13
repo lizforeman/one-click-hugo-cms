@@ -8,12 +8,10 @@ blurb:
     We are committed to the principle everyone deserves a well resourced, well
     trained and properly educated attorney.
 intro:
-  heading: What we offer
+  heading: What we do
   text: >-
-    Kaldi is the ultimate spot for coffee lovers who want to learn about their
-    java’s origin and support the farmers that grew it. We take coffee
-    production, roasting and brewing seriously and we’re glad to pass that
-    knowledge to anyone.
+    We raise money to fund top-notch trial training for public defenders and
+    other appointed counsel in Hamilton County, Ohio
 products:
   - image: img/illustrations-coffee.svg
     text: >-
