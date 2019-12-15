@@ -1,5 +1,5 @@
 ---
-title: Annual CLE Test page
+title: Annual CLE
 image: /img/about-jumbotron.jpg
 cle:
   - heading: Join us Veterans Day 2020
