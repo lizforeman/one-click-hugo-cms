@@ -7,7 +7,7 @@ values:
     text: >-
       Join us on November 11, 2020 for an enriching day of learning. Watch this
       space for speaker and registration information.
-  - heading: 2019 in review
+  - heading: 2019 CLE in review
     imageUrl: /img/about-single-origin.jpg
     text: >-
       Our theme was "Controlling the narrative from arrest to acquittal" and
@@ -21,12 +21,5 @@ values:
   - heading: Attend in 2020
     imageUrl: /img/about-direct-sourcing.jpg
     text: Online registration will be available this year!
-  - heading: Reinvest profits
-    imageUrl: /img/about-reinvest-profits.jpg
-    text: >
-      We want to truly empower the communities that bring amazing coffee to you.
-      That’s why we reinvest 20% of our profits into farms, local businesses and
-      schools everywhere our coffee is grown. You can see the communities grow
-      and learn more about coffee farming on our blog.
 ---
 
