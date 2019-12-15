@@ -11,6 +11,7 @@ import ValuesPreview from "./cms-preview-templates/values";
 import ContactPreview from "./cms-preview-templates/contact";
 import CLEPreview from "./cms-preview-templates/cle";
 import DonatePreview from "./cms-preview-templates/donate";
+import AboutPreview from "./cms-preview-templates/about";
 
 CMS.registerPreviewStyle(styles, { raw: true });
 CMS.registerPreviewTemplate("home", HomePreview);
@@ -20,4 +21,5 @@ CMS.registerPreviewTemplate("values", ValuesPreview);
 CMS.registerPreviewTemplate("contact", ContactPreview);
 CMS.registerPreviewTemplate("cle", CLEPreview);
 CMS.registerPreviewTemplate("donate", DonatePreview);
+CMS.registerPreviewTemplate("about", AboutPreview);
 CMS.init();
