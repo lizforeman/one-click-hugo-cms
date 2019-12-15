@@ -1,6 +1,8 @@
 ---
-title: About us
+title: About Friends
 image: /img/products-jumbotron.jpg
+about:
+  - ''
 heading: Join us on 11/11/2020
 description: >-
   Our annual Veterans Day CLE will be held again at the Sharonville Convention
