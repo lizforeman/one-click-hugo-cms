@@ -17,12 +17,18 @@ intro:
     to the principle that everyone deserves a well resourced, well trained and
     properly educated attorney.
 main:
-  heading: Great coffee with no compromises
-  description: >
-    We hold our coffee to the highest standards from the shrub to the cup.
-    That’s why we’re meticulous and transparent about each step of the coffee’s
-    journey. We personally visit each farm to make sure the conditions are
-    optimal for the plants, farmers and the local environment.
+  heading: Our board
+  description: |
+    Kathy Brinkman, Board President
+    Ray Faller, Secretary
+    Hal Arenstein, Treasurer
+    Ralph Kohnen 
+    Fr. Len Wenke
+    Dave Singleton
+    Peter Rosenwald
+    Timothy Smith
+
+    Bill Gallagher, Executive Director
   image1:
     alt: A close-up of a paper filter filled with ground coffee
     image: /img/products-grid3.jpg
