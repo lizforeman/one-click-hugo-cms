@@ -1,6 +1,8 @@
 ---
 title: About Friends
+date: 2020-01-29T17:50:43:-04:00 
 image: /img/products-jumbotron.jpg
+draft: true
 about:
   - ''
 heading: Join us on 11/11/2020
