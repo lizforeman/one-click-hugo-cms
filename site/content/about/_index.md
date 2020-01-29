@@ -1,5 +1,5 @@
 ---
-title: About Friends of the Indigent
+title: About Friends to the Indigent
 image: /img/products-jumbotron.jpg
 about:
   - ''
