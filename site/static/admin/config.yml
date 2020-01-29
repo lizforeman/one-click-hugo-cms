@@ -97,6 +97,7 @@ collections: # A list of collections the CMS should be able to edit
       - file: "site/content/about/_index.md"
         label: "About Page"
         name: "about"
+        create: true # Allow users to create new documents in this collection
         fields:
           - {label: Title, name: title, widget: string}
           - {label: Image, name: image, widget: image}
